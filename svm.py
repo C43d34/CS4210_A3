@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Cleighton Greer
 # FILENAME: svm.py
-# SPECIFICATION: develop most optimal SVM classifier for a given set of data using Grid Search Method (c, degree, kernel, and decision_function_shape) 
+# SPECIFICATION: develop most optimal SVM classifier for a given set of data using Grid Search Method for parameters:(c, degree, kernel, and decision_function_shape) 
 # FOR: CS 4210- Assignment #3
 # TIME SPENT: 
 #-----------------------------------------------------------*/
